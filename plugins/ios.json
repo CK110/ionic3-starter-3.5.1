@@ -1,0 +1,74 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "ionic-plugin-keyboard": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-call-number": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-appavailability": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-app-version": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-appminimize": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-code-push": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "jpush-phonegap-plugin": {
+      "APP_KEY": "c4b93e97996c7a805e8b66d0",
+      "PACKAGE_NAME": "com.zjft.office.test"
+    }
+  },
+  "dependent_plugins": {
+    "code-push": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    },
+    "cordova-plugin-jcore": {
+      "PACKAGE_NAME": "com.zjft.office.test"
+    }
+  }
+}
