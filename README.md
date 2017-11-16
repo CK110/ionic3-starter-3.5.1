@@ -1,20 +1,6 @@
-Ionic App Base
+Ionic App Base v3.5.1
 =====================
 
 This is the base template for Ionic starter apps.
 
-## Using this project
-
-Install the latest Ionic CLI:
-
-```bash
-$ npm install -g ionic
-```
-
-Then run:
-
-```bash
-$ ionic start myApp
-```
-
-More info on this can be found on the Ionic [Getting Started](http://ionicframework.com/docs/v2/getting-started/) page.
+![](https://ws4.sinaimg.cn/large/006tNc79gy1flkc9y357uj31dk0v6td4.jpg)
